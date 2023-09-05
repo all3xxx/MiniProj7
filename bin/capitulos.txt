@@ -1,0 +1,23 @@
+1;CAPÍTULO 1 - A resiliência de Diana;Era uma vez um reino coberto de neve e gelo chamado de Freljord...;2|3;Diana;0
+2;Capítulo 1 - Continuar lutando;Diana continua lutando...;4|5;Diana;0
+3;Capítulo 1 - Proteger o aldeão;Diana pede para que o aldeão fuja...;6|7;Diana;0
+4;Capítulo 2 - O destino do bebê;Pensando no bem maior de Freljord. Diana opta por não salvar o bebê...;8|9;Diana;30
+5;Capítulo 2 - Bebê fica vulnerável;Diana com o sangue fervendo dá batalha ignora o aldeão e continua lutando...;10|11;Diana;0
+6;Capítulo 2 - Salvar o bebê;Diana vendo que o bebê corria perigo vai em direção do mesmo...;12|13;Diana;0
+7;Capítulo 2 - Deixar o bebê;Diana percebe que se der um passo o gelo poderá se quebrar...;14|15;Diana;0
+8;Capítulo 3 - Final bom;Diana salva o bebê e ambos sobrevivem...;16;Diana;0
+9;Capítulo 3 - Final ruim;Diana vê seu irmão e guerreiro Braum alcança o bebê...;17;Diana;0
+10;Capítulo 3 - Bebê morre;Diana com o sangue fervendo dá batalha ignora o aldeão...;18;Diana;0
+11;Capítulo 3 - Diana morre;Diana percebe que se der um passo o gelo poderá se quebrar...;19;Diana;0
+12;Capítulo 3 - Salvar o bebê;Diana salva o bebê e ambos sobrevivem...;20;Diana;0
+13;Capítulo 3 - Diana morre;Diana vê seu irmão e guerreiro Braum alcança o bebê...;21;Diana;0
+14;Capítulo 3 - Bebê morre;Diana com o sangue fervendo dá batalha ignora o aldeão...;22;Diana;0
+15;Capítulo 3 - Diana morre;Diana percebe que se der um passo o gelo poderá se quebrar...;23;Diana;0
+16;Fim bom;Diana salvou o bebê e sobreviveram...;;
+17;Fim ruim;Diana morreu, mas o bebê foi salvo...;;
+18;Fim ruim;Diana morreu e o bebê também...;;
+19;Fim ruim;Diana morreu e o bebê foi salvo...;;
+20;Fim bom;Diana salvou o bebê e sobreviveram...;;
+21;Fim ruim;Diana morreu, mas o bebê foi salvo...;;
+22;Fim ruim;Diana morreu e o bebê também...;;
+23;Fim ruim;Diana morreu e o bebê foi salvo...;;

@@ -1,0 +1,11 @@
+Capítulo: CAPÍTULO 1 - A resiliência de Diana
+Texto: Era uma vez um reino coberto de neve e gelo chamado de Freljord. Na região em que Freljord fazia parte existiam muitos combates por território e poder. Em um determinado dia, uma legião chamada de Darkins invadiu Freljord, incendiando as casas e causando caos. Em uma área coberta por gelo estava tendo combates entre os principais guerreiros de Freljord e dos Darkins. Os guerreiros de Freljord estavam tentando proteger todos, a mais poderosa entre as mulheres se chamava Diana. Deseja continuar acompanhando a história?
+Escolhas: Proteger o aldeão, Continuar lutando
+Personagem: Diana
+AlteracaoEnergia: 0
+
+Capítulo: CAPÍTULO 2 - O destino do bebê
+Texto: Pensando no bem maior de Freljord. Diana opta por não salvar o bebê e deixa-o desprotegido, pois sabia que os Darkins não matariam a criança, já que o principal objetivo deles é capturar para assim treinar e ter cada vez mais guerreiros. Porém, ao olhar melhor percebeu que os guerreiros enviados pelos Darkins eram os mais temidos e assassinos, então não teriam piedade da criança.
+Escolhas: Tentar salvar o bebê, Ficar imóvel para o gelo não quebrar
+Personagem: Diana
+AlteracaoEnergia: 30
